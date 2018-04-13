@@ -1,15 +1,15 @@
 # xcode-theme
 My Dark Color Xcode Theme
 
-#extra dark theme
+## Extra Dark Theme
 
 ![](extra-dark-theme-preview.png)
 
-#suhit dark theme
+## Suhit Dark Theme
 
 ![](suhit-dark-theme-preview.png)
 
-Steps to installing Themes in Xcode
+## Steps to install 
 
 1. Clone this repo:
 $ git clone https://github.com/suhitp/xcode-theme.git
