@@ -5,7 +5,7 @@ My Dark Color Xcode Theme
 
 ![](extra-dark-theme-preview.png)
 
-## Suhit Dark Theme
+## Blue background - Dark Theme
 
 ![](suhit-dark-theme-preview.png)
 
