@@ -1,15 +1,7 @@
-# xcode-theme
-My Dark Color Xcode Theme
+# 🎨 xcode-theme
+My Dark Color Xcode Themes
 
-## Extra Dark Theme
-
-![](extra-dark-theme-preview.png)
-
-## Blue background - Dark Theme
-
-![](suhit-dark-theme-preview.png)
-
-## Steps to install 
+## Installation
 
 1. Clone this repo:
 $ git clone https://github.com/suhitp/xcode-theme.git
@@ -23,6 +15,15 @@ $ git clone https://github.com/suhitp/xcode-theme.git
 
 5. Unzip the font archive and move the files in the TTF folder to ~/Library/Fonts
 
-6. Restart the Xcode 
+## Activating theme
 
-7. Open Xcode preferences -> Colors and Font -> Select * Dark Theme
+1. Restart the Xcode  
+
+2. go to Xcode > Preferences > Fonts & Colors
+
+3. Select * Dark Theme 
+
+
+## Contributing
+
+Pull requests are welcome with new themes. For any changes, please open an issue first to discuss what you would like to change.
