@@ -1,5 +1,7 @@
 # 🎨 xcode-theme
-My Dark Color Xcode Themes
+These are some of the dark xcode-themes I use which works great with Xcode 10 dark mode.
+
+![](extra-dark-theme-preview.png)
 
 ## Installation
 
