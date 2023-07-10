@@ -1,5 +1,5 @@
 # 🎨 Xcode-theme
-Some of the dark Xcode-themes which looks great with Xcode dark and light modes.
+Some of the Xcode-themes which looks great with Xcode dark and light modes.
 
 
 ## Installation
